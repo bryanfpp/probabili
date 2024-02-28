@@ -5,4 +5,4 @@ Integrantes:
 - Hernández Monroy Ricardo
 - Gonzaga López Luis Fernando
 - Fuentes Pérez Bryan
-- López Daniel
+- López Gonzalez Daniel
